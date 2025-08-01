@@ -1,4 +1,4 @@
-# 🏎️ The Final Race – Verstappen vs Mostafa
+# 🏎️ The Final Race – Verstappen Max vs Mostafa Hassan
 
 A turn-based Formula 1 race simulator written in Python using **Object-Oriented Programming (OOP)** principles. In this high-octane duel, Max Verstappen faces off against Hassan Mostafa in a battle of strategy, tire wear, and fuel management.
 
