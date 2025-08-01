@@ -1,4 +1,4 @@
-# 🏎️ The Final Race – Verstappen vs Mostafa
+# 🏎️ The Final Race – Verstappen Max vs Mostafa Hassan
 
 A turn-based Formula 1 race simulator written in Python using **Object-Oriented Programming (OOP)** principles. In this high-octane duel, Max Verstappen faces off against Hassan Mostafa in a battle of strategy, tire wear, and fuel management.
 
@@ -52,7 +52,7 @@ python main.py
 
 ---
 
-## 🛠️ Code Principles
+## 🛠️ OOP Principles
 
 * **Encapsulation**: Private attributes and controlled access.
 * **Inheritance**: Specialized move classes inherit from a base `Move` class.
@@ -63,7 +63,7 @@ python main.py
 
 ## 🧠 Future Enhancements
 
-- 🗣️ **Voice-Control Integration**: Use Speech-to-Text (STT) via the **Groq API** to allow players to control their drivers using real speech instead of keyboard inputs — making gameplay hands-free and immersive.
+- **Voice-Control Integration**: Use Speech-to-Text (STT) via the **Groq API** to allow players to control their drivers using real speech instead of keyboard inputs — making gameplay hands-free and immersive.
 - Add AI-controlled opponents or randomness.
 - Integrate GUI (Tkinter or Pygame).
 - Add more moves, track types, and driver stats.
