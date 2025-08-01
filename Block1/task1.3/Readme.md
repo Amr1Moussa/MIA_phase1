@@ -52,7 +52,7 @@ python main.py
 
 ---
 
-## 🛠️ Code Principles
+## 🛠️ OOP Principles
 
 * **Encapsulation**: Private attributes and controlled access.
 * **Inheritance**: Specialized move classes inherit from a base `Move` class.
