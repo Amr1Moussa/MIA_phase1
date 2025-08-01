@@ -123,13 +123,13 @@ def main():
             # Defender takes damage
             defender.apply_damage(damage)
 
+            # Defender responds (either blocks or counterattacks)
+            response_name, effect = defender.respond()    # both return two values
+            
             if defender.is_exhausted():
                 print(f"\n🏆 {attacker.get_name()} wins the race!\n")
                 return
-
-            # Defender responds (either blocks or counterattacks)
-            response_name, effect = defender.respond()
-
+            
             if isinstance(effect, int):
                 print(f"{defender.get_name()} defended with {response_name}, reducing damage by {effect}%.")
             else:
@@ -147,7 +147,7 @@ def main():
             max_driver.display_stats()
             hassan_driver.display_stats()
 
-            # Mid-round check
+            # Mid-round check(necessary because defender can respond by an offensive move)
             if attacker.is_exhausted() or defender.is_exhausted():
                 break
 
