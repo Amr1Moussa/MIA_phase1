@@ -63,7 +63,7 @@ python main.py
 
 ## 🧠 Future Enhancements
 
-- **Voice-Control Integration**: Use Speech-to-Text (STT) via the **Groq API** to allow players to control their drivers using real speech instead of keyboard inputs — making gameplay hands-free and immersive.
+- **Voice-Control Integration**: Use Speech-to-Text (STT) via the **Groq API** to allow players to control their drivers using real speech instead of using keyboard inputs — making gameplay hands-free and immersive.
 - Add AI-controlled opponents or randomness.
 - Integrate GUI (Tkinter or Pygame).
 - Add more moves, track types, and driver stats.
