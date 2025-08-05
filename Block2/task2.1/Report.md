@@ -85,12 +85,8 @@ Grouping performance by decades:
 
 ---
 
-## 📎 Appendix & Notes
+## 📎 Notes
 
 * Data spans **1950–2024**; cleaning, merging, and validation were done via pandas.
 * Feature engineering included metrics like `position_change`, `dnf`, `dns`, `podium`, and `had_fastest_lap`.
 * Correlation checks ensured no redundant features skewed results.
-
----
-
-Would you like this formatted as a **PDF report**, **Markdown file**, or **presentation slides**? I can generate any format from your `.py` notebook.
