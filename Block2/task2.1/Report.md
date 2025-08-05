@@ -72,7 +72,7 @@ Grouping performance by decades:
 | Positions Lost by Driver | Horizontal Bar Plot        |
 | Top Drivers by Decade    | Grouped Bar Plot by Decade |
 
-- check notebook(later will add themall in plots folder)
+- check notebook(later will add all of them in plots folder)
 
 ---
 
