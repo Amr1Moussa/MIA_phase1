@@ -1,1 +1,4 @@
-MIA-Phase1 Tasks
+## MIA-Phase1 Tasks
+- block1 ✅
+- block2 ✅
+- block3 ⏳
